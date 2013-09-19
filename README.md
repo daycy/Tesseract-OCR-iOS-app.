@@ -17,6 +17,7 @@ The Tesseract OCR library, and its C++ wrapper are from the following urls:
 	⁃	http://code.google.com/p/tesseract-ocr/downloads/list
 	
 And else, the Kawaii icons. They are from the following urls(for free):
+
 	⁃	http://www.tutorial9.net/downloads/sketchy-web-icons-30-hand-drawn-icon-pack/
   
 The View Design and its ViewControllers, Action Controllers are in the [OCRProject] Folder.
